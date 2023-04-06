@@ -1,0 +1,206 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.shop-1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 24px;
+}
+
+.Explore-1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 24px;
+  margin-right: 441;
+}
+
+.Grovemade {
+  margin-left: 441px;
+  margin-right: 473px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.ph {
+  width: 1600px;
+  margin-top: 30px;
+  margin-bottom: 80px;
+
+}
+
+.DES {
+  margin-top: 80px;
+  margin-left: 572px;
+  margin-right: 571px;
+  margin-bottom: 23px;
+  font-size: 43px;
+}
+
+.Build {
+  color: #A0A0A0;
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 23px;
+  margin-bottom: 26px;
+  margin-left: 479px;
+  margin-right: 500px;
+}
+
+.button {
+  font-size: 13px;
+}
+
+.start {
+  margin-top: 26px;
+  margin-left: 670px;
+  margin-right: 670px;
+  margin-bottom: 81px;
+}
+
+.pc {
+  margin-top: 81px;
+  margin-right: 25px;
+  margin-bottom: 48px;
+  margin-left: 50px;
+}
+
+.laptop-1 {
+
+  margin-top: 81px;
+  margin-right: 49px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+}
+
+.DeskPads {
+font-size: 27px;
+   margin-top: 48px;
+ margin-left: 315;
+ margin-bottom: 23px;
+ margin-right: 530px;
+}
+
+
+.button-2{
+  margin-top: 23px;
+  margin-left: 331px;
+  margin-right: 588px;
+  margin-bottom: 130px;
+}
+.Laptop2Stands{
+  font-size: 30px;
+  margin-top: 48PX;
+  margin-right: 290PX;
+  margin-bottom: 23px;
+  margin-left: 530pxSSS;
+}
+.FeaturedProducts{
+  margin-top: 246px;
+  margin-bottom: 16px;
+  margin-right: 584px;
+  margin-left: 580px;
+}
+.see{
+color: #A0A0A0;
+margin-top: 16px;
+margin-bottom: 83px;
+ margin-right: 608px;
+ margin-left: 602px;
+}
+
+
+
+.Walnut{
+  padding-left: 63px;
+}
+
+.price{
+  padding-left: 63px;
+  
+}
+
+.IMG1{
+  
+ 
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
